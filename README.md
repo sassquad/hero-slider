@@ -1,7 +1,11 @@
 Hero Slider
 =========
 
-A full-width, responsive and easy to customize slideshow.
+A full-width, responsive and easy to customize slideshow. This version is forked from the original, so that the following enhancements are available:
+
+* Next and Previous buttons,
+* Autoplay is halted if you hover over the next and previous buttons, or the entire hero slider area.
+* As per the original, you can remove the autoplay class from the div to remove the autoplay feature.
 
 [Article on CodyHouse](http://codyhouse.co/gem/hero-slider/)
 
